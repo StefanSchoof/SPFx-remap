@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.4.0",
+    "libraryName": "sp-fx-remap",
+    "libraryId": "18b0cd92-945b-4b2a-89f9-c354e3d8ec5b",
+    "environment": "spo"
+  }
+}
